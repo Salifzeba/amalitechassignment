@@ -1,0 +1,2 @@
+# amalitechassignment
+miniprojects
